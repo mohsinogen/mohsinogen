@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <img src="/images/cover.png" title="hover text">
-</p>
-
-  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<img src="/images/cover.png" align="center" title="hover text">
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinogen&theme=compact" />
 
