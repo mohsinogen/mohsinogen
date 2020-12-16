@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![mohsinogen](https://github.com/mohsinogen/mohsinogen/images/cover.png?raw=true)
+<p align="center">
+  <img src="/images/cover.png" title="hover text">
+</p>
