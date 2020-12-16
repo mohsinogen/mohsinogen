@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="/images/cover.png" title="hover text">
-  Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
+
+  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+
