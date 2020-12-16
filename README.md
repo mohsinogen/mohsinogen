@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img src="/images/cover.png>
-<div>
+![mohsinogen](https://github.com/mohsinogen/mohsinogen/images/cover.png?raw=true)
