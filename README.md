@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img src="/images/cover.png" title="hover text">
 </p>
 
-  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
