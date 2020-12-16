@@ -5,19 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
 <img src="/images/cover.png" align="center" title="hover text">
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinogen&theme=dark" />
+i am Mohsin Ansari.
+- 🎓 Student of Computer Science.
+- 🌱 Currently learning Ml and Web development.
+- 🕺 Technology enthusiast.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohsinogen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohsinogen&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinogen&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinogen&langs_count=8&layout=compact&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
