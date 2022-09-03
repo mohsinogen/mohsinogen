@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-
+<img src="/images/cover.png" align="center" title="hover text">
 -->
 
-<img src="/images/cover.png" align="center" title="hover text">
+
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 i am Mohsin Ansari.  <br/>
 - 🎓 Student of Computer Science.  <br/>
