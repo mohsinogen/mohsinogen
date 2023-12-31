@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 i am Mohsin Ansari.  <br/>
-- 🎓 Student of Computer Science.  <br/>
-- 🌱 Currently learning Ml and Web development.  <br/>
-- 🕺 Technology enthusiast.  <br/>
-<br/><br/>
+I'm a Software Developer residing in the vibrant city of Mumbai.<br/>
+With 1+ year of experience in software development, I enjoy developing software that addresses real-world problems.
+The ever-evolving nature of the tech industry fuels my enthusiasm to explore new horizons.
+<br/>
+<br/>
 
  ![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsinogen&show_icons=true&theme=dark)
 
